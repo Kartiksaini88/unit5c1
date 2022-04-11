@@ -1,0 +1,12 @@
+
+.App{
+ margin-left: 500px;
+}
+.overCount{
+  display: flex;
+}
+button{
+  border-radius: 10px;
+  color: white;
+  background: red;
+}

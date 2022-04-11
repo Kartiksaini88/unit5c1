@@ -17,7 +17,7 @@ let addWicket = (value)=>{
   if(all.Wicket>=12){
     return
   }else{
-    chngall({Score:all.Score,Wicket:all.Wicket+value,Ball:50})
+    chngall({Score:all.Score,Wicket:all.Wicket+value,Ball:all.Ball})
   }
   
 }
